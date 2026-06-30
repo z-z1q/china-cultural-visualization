@@ -7,12 +7,15 @@
 Python + Dash + Plotly
 
 ## 功能
+数据可视化展示 + 交互分析
 - 地图可视化
 - 图表展示
 - 时间轴分析
 
-## 运行方式
+## 如何运行
+pip install -r requirements.txt
 python app.py
 
 ## 说明
 本项目为计算机设计大赛作品
+
