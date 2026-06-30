@@ -46,12 +46,12 @@ codev2/
 ## 项目展示
 
 ### 🏠 首页
-![home](assets/home.png)
+![homepage](assets/homepage1.png)
 
 ---
 
 ### 📊 数据分析页面
-![explore](assets/explore.png)
+![explore-map](assets/explore-map.png)
 
 ---
 
