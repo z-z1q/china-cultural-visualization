@@ -43,6 +43,21 @@ codev2/
 │   └── data_loader.py      # 数据加载与图表构建
 └── utils/                  # 工具函数
 ```
+## 项目展示
+
+### 🏠 首页
+![home](assets/home.png)
+
+---
+
+### 📊 数据分析页面
+![explore](assets/explore.png)
+
+---
+
+### 🧱 3D展示页面
+![construction](assets/construction.png)
+
 
 ## 功能特性
 
